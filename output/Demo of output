@@ -1,0 +1,91 @@
+{
+  "emails": {
+    "valid": [
+      {
+        "email": "pep@mail.com",
+        "category": "external"
+      },
+      {
+        "email": "d.anthony@alumni.alueducation.com",
+        "category": "alu_alumni"
+      },
+      {
+        "email": "d.trump@si.alueducation.com",
+        "category": "alu_si"
+      },
+      {
+        "email": "b.marley@alueducation.com",
+        "category": "alu_official"
+      },
+      {
+        "email": "billionaire@company.org",
+        "category": "external"
+      }
+    ],
+    "rejected": []
+  },
+  "credit_cards": {
+    "valid": [
+      {
+        "masked": "**** **** **** 1611"
+      },
+      {
+        "masked": "**** **** **** 0004"
+      },
+      {
+        "masked": "**** **** **** 9234"
+      },
+      {
+        "masked": "**** **** **** 0000"
+      }
+    ],
+    "rejected": [
+      {
+        "value": "**** **** **** 0000",
+        "reason": "invalid card number"
+      }
+    ]
+  },
+  "phone_numbers": {
+    "valid": [
+      {
+        "phone": "+250784293730"
+      },
+      {
+        "phone": "+250784293730"
+      },
+      {
+        "phone": "+254712458963"
+      },
+      {
+        "phone": "+256701234567"
+      },
+      {
+        "phone": "+255754829361"
+      }
+    ],
+    "rejected": [
+      {
+        "value": "+23412345",
+        "reason": "too short / invalid"
+      }
+    ]
+  },
+  "currency_amounts": [
+    {
+      "amount": "40000 FRw"
+    },
+    {
+      "amount": "KSh 15,000"
+    },
+    {
+      "amount": "\u00a3250"
+    },
+    {
+      "amount": "TSh 85,000"
+    },
+    {
+      "amount": "\u00a51,200"
+    }
+  ]
+}
