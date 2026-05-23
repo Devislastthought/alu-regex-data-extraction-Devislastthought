@@ -1,0 +1,116 @@
+@@ For the emails. @@
+
+Full names: Pep Guardiola
+Email address:pep@mail.com
+Recipient:Man city coach
+Subject: stepping down as manchester city manager
+Reason:continue his relationship with the city football group by taking up a role as a global ambassador.
+
+
+Full names:Anthony Davis
+Email address:d.anthony@alumni.alueducation.com
+Recipient:Student Success Team 
+Subject:Applying for hackathon
+Reason: Delivering my Best Hackathon Project
+
+
+Full names: Donald Trump
+Email address:d.trump@si.alueducation.com
+Recipient:Student Innovation Hub
+Subject: Request for a Private Room for hidding Due to Anxiety and fear About the Ukraine War.
+Reason: i am experiencing fear and emotional stress related to the possibility of losing the ukraine war and would like a private room for safety and peace of mind.
+
+Full names:Bob marley 
+Email address:b.marley@alueducation.com
+Recipient:Music Industry
+Subject:Song Uploading issue 
+Reason:Uploaded songs  not appearing on student music course
+
+
+Full names:Anita Annet Among.
+Email address:billionaire@company.org
+Recipient:President Parliament
+Subject:request for  expensive designer dress i wore during President Yoweri Museveni's swearing in ceremony
+Reason: Taking My Money without permission.
+
+@@ credit numbers @@
+
+Cardholder name: Louis vuitton
+Card number: 9111 1341 1161 1611
+Expiry date: 12/23
+Bank name: Bank of Kigali(bk)
+
+Cardholder name: bill gate
+Card number: 5500 0730 0200 0004
+Expiry date: 08/27
+Bank name: Equity Bank
+
+Cardholder name: Michael Brown
+Card number: 0000 000000 00000
+Expiry date: 03/29
+Bank name: I&M Bank
+
+Cardholder name: Amina Hassan
+Card number: 6011 3416 0270 9234
+Expiry date: 11/26
+Bank name: Umurenge Sacco
+
+Cardholder name: David Smith
+Card number: 3530 111333 000000
+Expiry date: 05/30
+Bank name: Ecobank
+
+@@ Phone numbers @@
+
+country:Rwanda 
+Code:+250 
+phone numbers: +250784293730
+
+Country: Rwanda
+Code: +250
+Phone number: +250784293730
+
+Country: Kenya
+Code: +254
+Phone number: +254712458963
+
+Country: Uganda
+Code: +256
+Phone number: +256701234567
+
+Country: Tanzania
+Code: +255
+Phone number: +255754829361
+
+Country: Nigeria
+Code: +234
+Phone number: +23412345 (Invalid)
+
+
+@@ Currency @@
+
+Country name: Rwanda
+Currency : Rwandan Francs (RWF)
+currency symbol:FRw
+Currency_amounts: 40000 FRw
+
+Country name: Kenya
+Currency: Kenyan Shilling (KES)
+Currency symbol: KSh
+Currency_amounts: KSh 15,000
+
+
+Country name: United Kingdom
+Currency: British Pound Sterling (GBP)
+Currency symbol: £
+Currency_amounts: £250
+
+Country name: Tanzania
+Currency: Tanzanian Shilling (TZS)
+Currency symbol: TSh
+Currency_amounts: TSh 85,000
+
+Country name: China
+Currency: Chinese Yuan Renminbi (CNY)
+Currency symbol: ¥
+Currency_amounts: ¥1,200
