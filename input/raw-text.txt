@@ -1,7 +1,7 @@
 @@ For the emails. @@
 
 Full names: Pep Guardiola
-Email address:pep@mail.com
+Email address:pep@brocken.com
 Recipient:Man city coach
 Subject: stepping down as manchester city manager
 Reason:continue his relationship with the city football group by taking up a role as a global ambassador.
@@ -33,7 +33,7 @@ Recipient:President Parliament
 Subject:request for  expensive designer dress i wore during President Yoweri Museveni's swearing in ceremony
 Reason: Taking My Money without permission.
 
-@@ credit numbers @@
+@@ credit cards @@
 
 Cardholder name: Louis vuitton
 Card number: 9111 1341 1161 1611
@@ -72,11 +72,11 @@ Phone number: +250784293730
 
 Country: Kenya
 Code: +254
-Phone number: +254712458963
+Phone number: +264712458963
 
 Country: Uganda
 Code: +256
-Phone number: +256701234567
+Phone number: +25670123456787897898
 
 Country: Tanzania
 Code: +255
